@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Diwesh Chaurasia</h1>
-<h3 align="center">An impassioned Computer Engineer</h3>
+<h3 align="center">A impassioned Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dch2r&label=Profile%20views&color=0e75b6&style=flat" alt="dch2r" /> </p>
 
@@ -33,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dch2r&show_icons=true&locale=en" alt="dch2r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dch2r&" alt="dch2r" /></p>
-
-![image](https://user-images.githubusercontent.com/110768034/208441851-407da582-a852-405f-9860-b883ac9ddd9c.png)
