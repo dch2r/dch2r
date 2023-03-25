@@ -6,11 +6,11 @@
 <!-- <p align="left"> <a href="https://twitter.com/_diweshhhhh" target="blank"><img src="[https://img.shields.io/twitter/follow/_diweshhhhh?logo=twitter&style=for-the-badge](https://www.instagram.com/_diweshhhhh/)" alt="_diweshhhhh" /></a> </p>
  -->
 <!-- - 🔭 I’m currently working on **A real time shopping website for Nepal** -->
-- 🌱 I’m currently learning **Go, Rust, etc.**
+<!-- - 🌱 I’m currently learning **Go, Rust, etc.** -->
 
-- 💬 Ask me about **programming, DSA**
+<!-- - 💬 Ask me about **programming, DSA** -->
 
-- 📫 How to reach me **diweshch2r@gmail.com**
+<!-- - 📫 How to reach me **diweshch2r@gmail.com** -->
 
 - ⚡ Fun fact **Coffee is better than drugs**
 
