@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diwesh Chaurasia</h1>
+<!-- <h1 align="center">Hi, I'm Diwesh Chaurasia</h1> -->
 <h3 align="center">An impassioned Computer Engineer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dch2r&label=Profile%20views&color=0e75b6&style=flat" alt="dch2r" /> </p> -->
