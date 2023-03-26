@@ -12,7 +12,7 @@
 
 <!-- - 📫 How to reach me **diweshch2r@gmail.com** -->
 
-- ⚡ Fun fact **Coffee is better than drugs**
+<!-- - ⚡ Fun fact **Coffee is better than drugs** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
