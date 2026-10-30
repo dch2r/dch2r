@@ -4,7 +4,7 @@ ML engineer who loves turning models into real, working software. I train them, 
 
 📍 Houston, TX · 🎓 MS in Computer Science (ML) at Rice University · 🌐 [dch2r.github.io](https://dch2r.github.io)
 
-### Featured work
+### What I've built
 
 | Project | What it does |
 | --- | --- |
