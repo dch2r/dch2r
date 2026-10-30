@@ -1,9 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Diwesh Chaurasia, ML Engineer and Software Engineer" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Diwesh Chaurasia, ML Engineer and Software Engineer" src="assets/banner-dark.svg" width="100%">
 
-## Hi, I'm Diwesh 👋
+## Hi, I'm Diwesh
 
 ML engineer who loves turning models into real, working software. I train them, test them properly, and build what it takes to ship them.
 
