@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Diwesh Chaurasia, ML Engineer and Software Engineer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="318" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="138" font-size="60" font-weight="700" fill="#e6edf3" letter-spacing="-1">Diwesh Chaurasia</text>
+    <rect x="66" y="164" width="96" height="4" rx="2" fill="url(#g)"/>
+    <text x="64" y="214" font-size="26" font-weight="500" fill="#e6edf3">ML Engineer · Software Engineer</text>
+    <text x="64" y="252" font-size="20" fill="#8b949e">Training, evaluating and shipping AI systems</text>
+  </g>
+  <line x1="760" y1="70" x2="1140" y2="70" stroke="#21262d" stroke-width="1"/><line x1="760" y1="115" x2="1140" y2="115" stroke="#21262d" stroke-width="1"/><line x1="760" y1="160" x2="1140" y2="160" stroke="#21262d" stroke-width="1"/><line x1="760" y1="205" x2="1140" y2="205" stroke="#21262d" stroke-width="1"/><line x1="760" y1="250" x2="1140" y2="250" stroke="#21262d" stroke-width="1"/>
+  <line x1="760" y1="60" x2="760" y2="250" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="760" y1="250" x2="1150" y2="250" stroke="#30363d" stroke-width="1.5"/>
+  <text x="1140" y="280" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#8b949e">training steps</text>
+  <text x="760" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#8b949e">loss</text>
+  <path d="M760.0,84.8 L766.3,97.3 L772.7,100.7 L779.0,116.8 L785.3,119.5 L791.7,129.4 L798.0,140.3 L804.3,141.8 L810.7,153.6 L817.0,154.9 L823.3,164.5 L829.7,169.3 L836.0,170.4 L842.3,170.4 L848.7,182.2 L855.0,185.0 L861.3,184.3 L867.7,184.4 L874.0,191.4 L880.3,196.2 L886.7,193.1 L893.0,204.9 L899.3,199.3 L905.7,207.1 L912.0,210.5 L918.3,212.6 L924.7,212.6 L931.0,209.6 L937.3,216.9 L943.7,214.8 L950.0,215.6 L956.3,219.2 L962.7,218.9 L969.0,224.1 L975.3,225.1 L981.7,224.8 L988.0,221.8 L994.3,224.7 L1000.7,226.3 L1007.0,225.0 L1013.3,226.6 L1019.7,228.4 L1026.0,225.4 L1032.3,226.6 L1038.7,230.4 L1045.0,228.5 L1051.3,229.3 L1057.7,227.4 L1064.0,228.8 L1070.3,232.0 L1076.7,228.0 L1083.0,233.6 L1089.3,232.1 L1095.7,230.3 L1102.0,234.1 L1108.3,232.4 L1114.7,235.1 L1121.0,231.9 L1127.3,231.6 L1133.7,232.8 L1140.0,231.4" fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" values="1;0;0" keyTimes="0;0.55;1" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="1140.0" cy="231.4" r="6" fill="#a371f7">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5;0.58;0.92;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
