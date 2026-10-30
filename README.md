@@ -4,19 +4,6 @@ ML engineer who loves turning models into real, working software. I train them, 
 
 📍 Houston, TX · 🎓 MS in Computer Science (ML) at Rice University · 🌐 [dch2r.github.io](https://dch2r.github.io)
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dch2r&label=Profile%20views&color=0e75b6&style=flat" alt="dch2r" /> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/_diweshhhhh" target="blank"><img src="[https://img.shields.io/twitter/follow/_diweshhhhh?logo=twitter&style=for-the-badge](https://www.instagram.com/_diweshhhhh/)" alt="_diweshhhhh" /></a> </p>
- -->
-<!-- - 🔭 I’m currently working on **A real time shopping website for Nepal** -->
-<!-- - 🌱 I’m currently learning **Go, Rust, etc.** -->
-
-<!-- - 💬 Ask me about **programming, DSA** -->
-
-<!-- - 📫 How to reach me **diweshch2r@gmail.com** -->
-
-<!-- - ⚡ Fun fact **Coffee is better than drugs** -->
-
 ### Featured work
 
 | Project | What it does |
@@ -26,7 +13,7 @@ ML engineer who loves turning models into real, working software. I train them, 
 | [**VLM Hallucination Calibration**](https://github.com/dch2r/vlm-hallucination-calibration)<br>[Demo](https://dch2r.github.io/#vlm-hallucination) | Training-free pipeline that checks the objects in Qwen2.5-VL captions against the image with CLIP. The standard metric reported 15.6% fewer hallucinations, and a hand audit showed the gain came from errors in the metric, not real fixes. |
 | [**Chasing the Aha Moment**](https://github.com/dch2r/Chasing-the-Aha-Moment)<br>[Demo](https://dch2r.github.io/#aha-moment) | GRPO post-training of Qwen2.5-1.5B on a single T4, with an audit showing the score gain came from answer formatting rather than better math. Fully reproducible. |
 
-<h3 align="left">What I work with</h3>
+### What I work with
 
 <table>
   <tr>
@@ -46,9 +33,3 @@ ML engineer who loves turning models into real, working software. I train them, 
     <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,azure,linux&theme=dark" height="36"/><br/>Docker, Kubernetes, Helm, GitHub Actions, OpenTelemetry, AWS, Azure, Linux</td>
   </tr>
 </table>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dch2r&show_icons=true&locale=en&layout=compact" alt="dch2r" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dch2r&show_icons=true&locale=en" alt="dch2r" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dch2r&" alt="dch2r" /></p>
