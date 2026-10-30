@@ -1,5 +1,8 @@
-<!-- <h1 align="center">Hi, I'm Diwesh Chaurasia</h1> -->
-<h3 align="center">An impassioned Computer Engineer</h3>
+## Hi, I'm Diwesh 👋
+
+ML engineer who loves turning models into real, working software. I train them, test them properly, and build what it takes to ship them.
+
+📍 Houston, TX · 🎓 MS in Computer Science (ML) at Rice University · 💼 Open to ML, AI and SWE roles
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dch2r&label=Profile%20views&color=0e75b6&style=flat" alt="dch2r" /> </p> -->
 
