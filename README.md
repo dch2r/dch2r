@@ -18,18 +18,26 @@ ML engineer who loves turning models into real, working software. I train them, 
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,cpp,ts,bash&theme=dark" height="36"/><br/>Python, C++, TypeScript, SQL, Bash</td>
+    <td><img src="https://skillicons.dev/icons?i=py,cpp,ts,js,java,bash&theme=dark" height="36"/><br/>Python, C++, TypeScript, JavaScript, Java, SQL, Bash</td>
   </tr>
   <tr>
     <td><b>ML and LLMs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="36"/><br/>Hugging Face Transformers, TRL, PEFT (LoRA), GRPO, CLIP, LangGraph, Ollama, RAG</td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="36"/><br/>Hugging Face Transformers, vLLM, TRL, PEFT (LoRA), GRPO, CLIP, LangGraph, RAG, agentic systems, LLM evaluation, NumPy, Pandas</td>
   </tr>
   <tr>
-    <td><b>Backend and data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,postgres,nextjs&theme=dark" height="36"/><br/>FastAPI, SQLAlchemy, PostgreSQL, Next.js, NetworkX, Pandas</td>
+    <td><b>Backend and APIs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,graphql&theme=dark" height="36"/><br/>FastAPI, Node.js, Express, REST, GraphQL, SQLAlchemy</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark" height="36"/><br/>PostgreSQL, MongoDB, MySQL, SQLite</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="36"/><br/>React, Next.js, React Native</td>
   </tr>
   <tr>
     <td><b>Infra and MLOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,azure,linux&theme=dark" height="36"/><br/>Docker, Kubernetes, Helm, GitHub Actions, OpenTelemetry, AWS, Azure, Linux</td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,azure,linux,git&theme=dark" height="36"/><br/>Docker, Kubernetes, Helm, GitHub Actions, CI/CD, OpenTelemetry, k6, AWS, Azure, Linux, Git</td>
   </tr>
 </table>
