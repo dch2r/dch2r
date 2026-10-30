@@ -22,7 +22,7 @@ ML engineer who loves turning models into real, working software. I train them, 
 | Project | What it does |
 | --- | --- |
 | [**signalfloor**](https://github.com/dch2r/signalfloor) | Tells you whether a drop in your LLM eval scores is a real regression or just noise. Shipped on PyPI with a CLI, GitHub Action, FastAPI server, Next.js dashboard and Helm chart. |
-| [**VLM Hallucination Calibration**](https://github.com/dch2r/vlm-hallucination-calibration) | Training-free pipeline that finds and fixes hallucinated objects in Qwen2.5-VL captions using CLIP grounding. Cut caption-level hallucinations by 15.6% on MS COCO. |
+| [**VLM Hallucination Calibration**](https://github.com/dch2r/vlm-hallucination-calibration) | Training-free pipeline that checks the objects in Qwen2.5-VL captions against the image with CLIP. The standard metric reported 15.6% fewer hallucinations, and a hand audit showed the gain came from errors in the metric, not real fixes. |
 | [**Chasing the Aha Moment**](https://github.com/dch2r/Chasing-the-Aha-Moment) | GRPO post-training of Qwen2.5-1.5B on a single T4, with an audit showing the score gain came from answer formatting rather than better math. Fully reproducible. |
 
 <h3 align="left">What I work with</h3>
